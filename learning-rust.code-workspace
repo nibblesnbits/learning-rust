@@ -2,6 +2,10 @@
   "folders": [
     {
       "path": "hello-world"
+    },
+
+    {
+      "path": "guessing_game"
     }
   ],
   "settings": {}
